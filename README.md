@@ -1,4 +1,4 @@
-# econ-data-science-resources
+# Econ and Data Science Resources
 A curated collection of books, papers, courses, notes and tools at the intersection of economics, data science and quantitative methods. 
 
 ## Purpose
@@ -65,7 +65,7 @@ Resources are selected according to at least one of the following criteria:
 
 - **OpenBB**  
   https://github.com/OpenBB-finance/OpenBB  
-  Open-source financial terminal for quantitative research and market analysis.
+  Open-source financial terminal (Bloomberg-alike) for quantitative research and market analysis.
 
 - **PyQL**  
   https://github.com/enthought/pyql  
@@ -95,32 +95,42 @@ Resources are selected according to at least one of the following criteria:
 
 ## Papers
 
-- **The Simple Macroeconomics of AI — Daron Acemoglu**  
+- **The Simple Macroeconomics of AI - Daron Acemoglu**  
   https://economics.mit.edu/sites/default/files/2024-04/The%20Simple%20Macroeconomics%20of%20AI.pdf  
   Analysis of the macroeconomic implications of artificial intelligence and automation.
 
-- **High-Level Expert Panel Report on AI — Italian G7**  
-  https://www.dt.mef.gov.it/export/sites/sitodt/modules/documenti_it/HLPE-Report-on-AI.pdf  
-  Policy-oriented discussion of artificial intelligence and macroeconomic transformation.
+- **Macroeconomic policies for AI - Luca Fornaro, Martin Wolf**   
+  https://econ-papers.upf.edu/papers/1943.pdf
+  A macroeconomic framework to study monetary and fiscal policies for AI
+
+- **When Financial Economics influences Physics: The Role of Econophysics**
+  https://iris.unipa.it/retrieve/handle/10447/409363/873591/IRFA_2019_published.pdf
+  This paper aims at analyzing the unexpected influence of Financial economics on
+Physics.  
 
 ---
 
-## Classic Papers
+## Foundation Papers
 
-- **A Contribution to the Theory of Economic Growth — Robert Solow (1956)**  
+- **A Contribution to the Theory of Economic Growth - Robert Solow (1956)**  
   Foundational paper of neoclassical growth theory.
 
-- **On the Mechanics of Economic Development — Robert Lucas (1988)**  
+- **On the Mechanics of Economic Development - Robert Lucas (1988)**  
   Human capital and endogenous growth dynamics.
 
-- **Endogenous Technological Change — Paul Romer (1990)**  
+- **Endogenous Technological Change - Paul Romer (1990)**  
   Seminal contribution to endogenous growth and innovation theory.
 
-- **The Pricing of Options and Corporate Liabilities — Black & Scholes (1973)**  
+- **The Pricing of Options and Corporate Liabilities - Black & Scholes (1973)**  
   Foundational framework for derivatives pricing.
 
-- **Portfolio Selection — Harry Markowitz (1952)**  
+- **Portfolio Selection - Harry Markowitz (1952)**  
   Introduction of modern portfolio theory and mean-variance optimization.
+
+- **Efficient Capital Markets: A Review of Theory and Empirical Work - Eugene Fama**
+The seminal work on EMH by Nobel's Prize Eugene Fama.
+
+
 
 ---
 
