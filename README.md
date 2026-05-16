@@ -167,7 +167,7 @@ Resources are selected according to at least one of the following criteria:
 - **Flirting with Models**  
   Conversations with quants, researchers and financial practitioners.
 
-- **LdR — La Logica del Rischio**  
+- **LdR - La Logica del Rischio**  
   Discussions on risk management, statistics and complexity by ETH professor Gabriele Cirillo.
 
 - **Phastidio Podcast**  
