@@ -14,50 +14,56 @@ Resources are selected according to at least one of the following criteria:
 
 ## Books
 
-- **The Physics of Finance — James Owen Weatherall**  
+### Educational and popular
+
+- **The Physics of Finance - James Owen Weatherall**  
   Historical and conceptual perspective on quantitative finance and the interaction between physics, mathematics and markets.
 
-- **Pricing the Future — George Szpiro**  
+- **Pricing the Future - George Szpiro**  
   Historical reconstruction of the Black–Scholes equation and its impact on modern finance.
 
-- **More Money Than God — Sebastian Mallaby**  
+- **More Money Than God - Sebastian Mallaby**  
   Historical reconstruction of the hedge fund industry and the evolution of quantitative investing.
 
-- **The Worldly Philosophers — Robert Heilbroner**  
+- **The Worldly Philosophers - Robert Heilbroner**  
   Accessible and historically rich overview of the major economists and their ideas.
 
-- **Physics and Finance — Volker Ziemann**  
-  Graduate-level introduction to quantitative finance from a physics-oriented perspective.
-
-- **Confessions of a Wall Street Analyst — Daniel Reingold**  
+- **Confessions of a Wall Street Analyst - Daniel Reingold**  
   First-hand account of equity research and financial markets during the expansion of Wall Street in the 1980s and 1990s.
 
-- **Fortune’s Formula — William Poundstone**  
+- **Fortune’s Formula - William Poundstone**  
   Narrative exploration of Kelly’s criterion and its applications in finance and gambling.
 
-- **A Man for All Markets — Edward Thorp**  
+- **A Man for All Markets - Edward Thorp**  
   Biography of Edward Thorp and the origins of quantitative trading and probabilistic investing.
 
-- **My Life as a Quant — Emanuel Derman**  
+- **My Life as a Quant - Emanuel Derman**  
   Reflections on quantitative finance from a former physicist turned Wall Street quant.
 
-- **Dark Pools — Scott Patterson**  
+- **Dark Pools - Scott Patterson**  
   Investigation into the rise of algorithmic trading and high-frequency markets.
 
-- **The Quants — Scott Patterson**  
+- **The Quants - Scott Patterson**  
   Historical account of quantitative finance and its role in modern financial markets.
 
-- **Proof of Stake — Vitalik Buterin**  
+- **Proof of Stake - Vitalik Buterin**  
   Collection of essays and reflections on blockchain systems, coordination and cryptoeconomics.
 
-- **The Man Who Solved the Market — Gregory Zuckerman**  
+- **The Man Who Solved the Market - Gregory Zuckerman**  
   Story of Jim Simons, Renaissance Technologies and the Medallion Fund.
 
-- **Price Setting — Truman Bewley**  
+- **Price Setting - Truman Bewley**  
   Empirical investigation of price rigidity and pricing behaviour across firms and industries.
 
-- **Capitalism, Socialism and Democracy — Joseph Schumpeter**  
+### Technicals
+- **Capitalism, Socialism and Democracy - Joseph Schumpeter**  
   Classic work on innovation, entrepreneurship and creative destruction.
+
+- **Physics and Finance - Volker Ziemann**  
+  Graduate-level introduction to quantitative finance from a physics-oriented perspective.
+
+- **Finanza Matematica - Pascucci, Runggaldier**  
+  Graduate-level compendium of the mathematics foundation of financial markets
 
 ---
 
