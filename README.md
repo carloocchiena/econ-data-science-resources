@@ -1,57 +1,227 @@
 # econ-data-science-resources
 A curated collection of books, papers, courses, notes and tools at the intersection of economics, data science and quantitative methods. 
 
-### Books
-- **The physics of finance, James Owen Weatherall**: historical and conceptual perspective on quantitative finance and the interaction between physics, mathematics and markets.
-- **Pricing the future, George Szpiro**: the detailed history of Black and Scholes equation.
-- **More money than God, Sebastian Mallaby**: complete history of hedge fund, from seminal works to present time.
-- **The Wordly Philosophers, Robert Heilbroner**: a journey thru the economist of all ages and their ideas. Includes some niches not often found in more "mainstream" books.
-- **Physics and Finance, Volker Ziemann**: a graduate-level physics for finance compendium.
-- **Confession of a Wall Street Analyst, Daniel Reingold**: a behind-the-curtains first-hand account of a top-tier Wall Street analyst in the "Master of the Universe" golden age.
-- **Fortune's Formula, William Poundstone**: a complete account of Kelly's formula and its practical application on financial markets (and gambling!).
-- **A man for all markets, Edward Thorp**: biography of Edward Thorp, the ante-litteram quant that foresaw Black and Scholes equation.
-- **My Life as a Quant, Emanuel Derman**: the biography of a Physics PhD turned Wall Street analyst, actually crafting the "quant" job role.
-- **Dark Pools - the rise of machine traders, Scott Patterson**: an accurate account of the genesys and evolution of high-frequency-trading.
-- **The Quants, Scott Patterson**: an historical account of the role of quants in financial markets.
-- **Proof of stake, Vitalik Buterin**: a collection of the "Vitalik-thought".
-- **The man who solved the market, Gregory Zuckerman**: a firsthand account of Jim Simon's Medallion Fund and his legacy.
-- **Price Setting, Truman Bewley**: investigation around demand elasticity with respect to price changes in many (US) markets.
-- **Capitalism, Socialism and Democracy, Joseph Schumpeter**: one of the most influential book of JS.
+## Purpose
 
-### Repository
-- **https://github.com/OpenBB-finance/OpenBB**: the world-famous terminal, now in an open source replica.
-- **https://github.com/enthought/pyql**: the gold standard for quant pricing in Python.
-- **https://github.com/jsmidt/QuantPy**: quant finance in Python.
-- **https://github.com/alpha-miner/Finance-Python**: python tools for Finance with the functionality of indicator calculation, business day calculation and so on.
-- **https://github.com/vollib/vollib**: a python library for calculating option prices, implied volatility and greeks.
-- **https://github.com/gnzsnz/jupyter-quant**: a Dockerized research environment for quant research.
+The goal is not completeness, but curation: selecting useful material for study, research and applied problem solving.
+
+Resources are selected according to at least one of the following criteria:
+- conceptual clarity
+- mathematical rigor
+- practical usefulness
+- historical relevance
+- pedagogical quality
+
+## Books
+
+- **The Physics of Finance — James Owen Weatherall**  
+  Historical and conceptual perspective on quantitative finance and the interaction between physics, mathematics and markets.
+
+- **Pricing the Future — George Szpiro**  
+  Historical reconstruction of the Black–Scholes equation and its impact on modern finance.
+
+- **More Money Than God — Sebastian Mallaby**  
+  Historical reconstruction of the hedge fund industry and the evolution of quantitative investing.
+
+- **The Worldly Philosophers — Robert Heilbroner**  
+  Accessible and historically rich overview of the major economists and their ideas.
+
+- **Physics and Finance — Volker Ziemann**  
+  Graduate-level introduction to quantitative finance from a physics-oriented perspective.
+
+- **Confessions of a Wall Street Analyst — Daniel Reingold**  
+  First-hand account of equity research and financial markets during the expansion of Wall Street in the 1980s and 1990s.
+
+- **Fortune’s Formula — William Poundstone**  
+  Narrative exploration of Kelly’s criterion and its applications in finance and gambling.
+
+- **A Man for All Markets — Edward Thorp**  
+  Biography of Edward Thorp and the origins of quantitative trading and probabilistic investing.
+
+- **My Life as a Quant — Emanuel Derman**  
+  Reflections on quantitative finance from a former physicist turned Wall Street quant.
+
+- **Dark Pools — Scott Patterson**  
+  Investigation into the rise of algorithmic trading and high-frequency markets.
+
+- **The Quants — Scott Patterson**  
+  Historical account of quantitative finance and its role in modern financial markets.
+
+- **Proof of Stake — Vitalik Buterin**  
+  Collection of essays and reflections on blockchain systems, coordination and cryptoeconomics.
+
+- **The Man Who Solved the Market — Gregory Zuckerman**  
+  Story of Jim Simons, Renaissance Technologies and the Medallion Fund.
+
+- **Price Setting — Truman Bewley**  
+  Empirical investigation of price rigidity and pricing behaviour across firms and industries.
+
+- **Capitalism, Socialism and Democracy — Joseph Schumpeter**  
+  Classic work on innovation, entrepreneurship and creative destruction.
+
+---
+
+## Open Source Tools
+
+- **OpenBB**  
+  https://github.com/OpenBB-finance/OpenBB  
+  Open-source financial terminal for quantitative research and market analysis.
+
+- **PyQL**  
+  https://github.com/enthought/pyql  
+  Python interface for quantitative finance and derivatives pricing.
+
+- **QuantPy**  
+  https://github.com/jsmidt/QuantPy  
+  Quantitative finance utilities and pricing tools in Python.
+
+- **Finance-Python**  
+  https://github.com/alpha-miner/Finance-Python  
+  Python tools for financial calculations, indicators and business day handling.
+
+- **vollib**  
+  https://github.com/vollib/vollib  
+  Python library for option pricing, implied volatility and Greeks calculation.
+
+- **jupyter-quant**  
+  https://github.com/gnzsnz/jupyter-quant  
+  Dockerized research environment for quantitative finance and experimentation.
+
+---
 
 ## Papers
-- **https://economics.mit.edu/sites/default/files/2024-04/The%20Simple%20Macroeconomics%20of%20AI.pdf** [Acemoglu] This paper evaluates claims about the large macroeconomic implications of new advances in AI.
-- **https://www.dt.mef.gov.it/export/sites/sitodt/modules/documenti_it/HLPE-Report-on-AI.pdf**: AI macroeconomics impact as discussed during Italian G7
 
-### Podcasts
-- **Data Science Decoded**: famous data science and math papers are read during the episode and briefly commented.
-- **Demystifing Finance**: short 10-minutes episodes that briefly explain quant and financial topics, from formulas and algo to technical jargon.
-- **Flirting with models**: discussions with quants and mathematicians around financial topics and markets issues.
-- **LdR - La Logica del Rischio**: ETH Data Science Professor Dr. Cirillo talks around risk management and data science.
-- **Phastidio podcast**: aside from the unusual name, is the best macroeconomics podcast (in Italian, but with a worldwide frame).
-- **Talking Tuesday**: interviews at quants and analyst working on financial markets.
-- **The Bull**: aside from the "finance 101" episodes, it is a terrif podcast that had guests like Eugene Fama, Paul Krugman, and a pletora of hedge fund managers and academic researchers.
-- **Capitalism and Freedom**: mostly interviews at US academics working in finance or economics.
+- **The Simple Macroeconomics of AI — Daron Acemoglu**  
+  https://economics.mit.edu/sites/default/files/2024-04/The%20Simple%20Macroeconomics%20of%20AI.pdf  
+  Analysis of the macroeconomic implications of artificial intelligence and automation.
 
-### Websites
-- **https://www.jamelsaadaoui.com/posts/**: curated list of macroeconomics podcast, often paired with Stata or R codes.
-- **https://cepr.org/europe-2050-geometries-peace-power-and-prosperity**: the new project of the Macroeconomics god Olivier Blanchard.
+- **High-Level Expert Panel Report on AI — Italian G7**  
+  https://www.dt.mef.gov.it/export/sites/sitodt/modules/documenti_it/HLPE-Report-on-AI.pdf  
+  Policy-oriented discussion of artificial intelligence and macroeconomic transformation.
+
+---
+
+## Classic Papers
+
+- **A Contribution to the Theory of Economic Growth — Robert Solow (1956)**  
+  Foundational paper of neoclassical growth theory.
+
+- **On the Mechanics of Economic Development — Robert Lucas (1988)**  
+  Human capital and endogenous growth dynamics.
+
+- **Endogenous Technological Change — Paul Romer (1990)**  
+  Seminal contribution to endogenous growth and innovation theory.
+
+- **The Pricing of Options and Corporate Liabilities — Black & Scholes (1973)**  
+  Foundational framework for derivatives pricing.
+
+- **Portfolio Selection — Harry Markowitz (1952)**  
+  Introduction of modern portfolio theory and mean-variance optimization.
+
+---
+
+## Courses and Lecture Notes
+
+- **MIT OpenCourseWare**  
+  https://ocw.mit.edu/  
+  Extensive repository of university-level courses in mathematics, economics and computer science.
+
+- **QuantEcon**  
+  https://quantecon.org/  
+  Computational economics lectures and quantitative methods using Python and Julia.
+
+- **Dynare Tutorials**  
+  https://www.dynare.org/resources-and-support/tutorials/  
+  Tutorials and examples for DSGE and macroeconomic modelling.
+
+- **Paul’s Online Math Notes**  
+  https://tutorial.math.lamar.edu/  
+  Concise and accessible reference for calculus, differential equations and linear algebra.
+
+  - **Il faro dell'economia**
+  https://www.youtube.com/@IlFarodellEconomia
+Economics lessons and dynamics charts.
+
+- **Econ Struggles**
+https://www.youtube.com/@InCaseofEconStruggles
+A PhD student sharing his journey in economics.
+
+- **The Bright Side of Mathematics**
+https://www.youtube.com/@brightsideofmaths
+Graduate-level mathematics topics.
+
+- **Econ Guy**
+https://www.youtube.com/@structuraleconguy
+Economics research and estimating structural econometric models
+
+---
+
+## Podcasts
+
+- **Data Science Decoded**  
+  Discussions around influential papers in mathematics and data science.
+
+- **Demystifying Finance**  
+  Short-form explanations of quantitative finance concepts and market mechanics.
+
+- **Flirting with Models**  
+  Conversations with quants, researchers and financial practitioners.
+
+- **LdR — La Logica del Rischio**  
+  Discussions on risk management, statistics and complexity by ETH professor Gabriele Cirillo.
+
+- **Phastidio Podcast**  
+  Italian podcast focused on macroeconomics, policy and global economic issues.
+
+- **Talking Tuesdays**  
+  Interviews with quants and analysts working in financial markets.
+
+- **The Bull**  
+  Finance and economics podcast featuring academics, investors and market practitioners.
+
+- **Capitalism and Freedom**  
+  Interviews and discussions around economics, finance and public policy.
+
+---
+
+## Websites
+
+- **Jamel Saadaoui**  
+  https://www.jamelsaadaoui.com/posts/  
+  Macroeconomics resources, podcasts and empirical material often accompanied by Stata or R code.
+
+- **CEPR Europe 2050**  
+  https://cepr.org/europe-2050-geometries-peace-power-and-prosperity  
+  Research initiative coordinated by Olivier Blanchard on the future of Europe and macroeconomic policy.
+
+---
 
 ## Newsletters
-- **https://gemenergyanalytics.substack.com/**: energy analytics and other topics related to math and energy markets.
-- **https://davidoks.blog/**: mostly macroeconomics topics, mixed with tech and some anthropology.
-- **https://thepalindrome.org/**: world-famous mathematical newsletter
-- **https://www.quantbeckman.com/**: quant, computer science and maths.
-- **https://macroanchor.substack.com/**: macroeconomics topics curated by a former hedge fund manager.
+
+- **GEM Energy Analytics**  
+  https://gemenergyanalytics.substack.com/  
+  Energy analytics, commodity markets and quantitative insights.
+
+- **David Oks**  
+  https://davidoks.blog/  
+  Essays on macroeconomics, technology and social systems.
+
+- **The Palindrome**  
+  https://thepalindrome.org/  
+  Mathematical newsletter focused on quantitative thinking and problem solving.
+
+- **Quant Beckman**  
+  https://www.quantbeckman.com/  
+  Quantitative finance, mathematics and computer science.
+
+- **Macro Anchor**  
+  https://macroanchor.substack.com/  
+  Macroeconomic analysis from an investor-oriented perspective.
+
+---
 
 ## Topics of Interest
+
 - Economic growth theory
 - Dynamic optimization
 - Differential equations
