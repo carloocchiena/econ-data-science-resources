@@ -138,20 +138,20 @@ Resources are selected according to at least one of the following criteria:
   https://tutorial.math.lamar.edu/  
   Concise and accessible reference for calculus, differential equations and linear algebra.
 
-- **Il faro dell'economia**
-  https://www.youtube.com/@IlFarodellEconomia/
+- **Il faro dell'economia**  
+  https://www.youtube.com/@IlFarodellEconomia/  
   Economics lessons and dynamics charts.
 
-- **Econ Struggles**
-  https://www.youtube.com/@InCaseofEconStruggles/
+- **Econ Struggles**  
+  https://www.youtube.com/@InCaseofEconStruggles/  
   A PhD student sharing his journey in economics.
 
-- **The Bright Side of Mathematics**
-  https://www.youtube.com/@brightsideofmaths/
+- **The Bright Side of Mathematics**  
+  https://www.youtube.com/@brightsideofmaths/  
   Graduate-level mathematics topics.
 
-- **Econ Guy**
-  https://www.youtube.com/@structuraleconguy/
+- **Econ Guy**  
+  https://www.youtube.com/@structuraleconguy/  
   Economics research and estimating structural econometric models
 
 ---
