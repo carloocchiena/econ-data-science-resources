@@ -49,6 +49,7 @@ A curated collection of books, papers, courses, notes and tools at the intersect
 - **https://davidoks.blog/**: mostly macroeconomics topics, mixed with tech and some anthropology.
 - **https://thepalindrome.org/**: world-famous mathematical newsletter
 - **https://www.quantbeckman.com/**: quant, computer science and maths.
+- **https://macroanchor.substack.com/**: macroeconomics topics curated by a former hedge fund manager.
 
 ## Topics of Interest
 - Economic growth theory
