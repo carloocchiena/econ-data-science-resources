@@ -19,12 +19,16 @@ A curated collection of books, papers, courses, notes and tools at the intersect
 - **Capitalism, Socialism and Democracy, Joseph Schumpeter**: one of the most influential book of JS.
 
 ### Repository
-- **github.com/OpenBB-finance/OpenBB**: the world-famous terminal, now in an open source replica.
-- **github.com/enthought/pyql**: the gold standard for quant pricing in Python.
+- **https://github.com/OpenBB-finance/OpenBB**: the world-famous terminal, now in an open source replica.
+- **https://github.com/enthought/pyql**: the gold standard for quant pricing in Python.
 - **https://github.com/jsmidt/QuantPy**: quant finance in Python.
 - **https://github.com/alpha-miner/Finance-Python**: python tools for Finance with the functionality of indicator calculation, business day calculation and so on.
 - **https://github.com/vollib/vollib**: a python library for calculating option prices, implied volatility and greeks.
 - **https://github.com/gnzsnz/jupyter-quant**: a Dockerized research environment for quant research.
+
+## Papers
+- **https://economics.mit.edu/sites/default/files/2024-04/The%20Simple%20Macroeconomics%20of%20AI.pdf** [Acemoglu] This paper evaluates claims about the large macroeconomic implications of new advances in AI.
+- **https://www.dt.mef.gov.it/export/sites/sitodt/modules/documenti_it/HLPE-Report-on-AI.pdf**: AI macroeconomics impact as discussed during Italian G7
 
 ### Podcasts
 - **Data Science Decoded**: famous data science and math papers are read during the episode and briefly commented.
