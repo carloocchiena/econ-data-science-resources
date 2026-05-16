@@ -127,10 +127,8 @@ Physics.
 - **Portfolio Selection - Harry Markowitz (1952)**  
   Introduction of modern portfolio theory and mean-variance optimization.
 
-- **Efficient Capital Markets: A Review of Theory and Empirical Work - Eugene Fama**
-The seminal work on EMH by Nobel's Prize Eugene Fama.
-
-
+- **Efficient Capital Markets: A Review of Theory and Empirical Work - Eugene Fama**  
+The seminal work on EMH by Nobel's Prize Eugene Fama.  
 
 ---
 
