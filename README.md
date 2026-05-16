@@ -87,8 +87,8 @@ Resources are selected according to at least one of the following criteria:
   https://github.com/gnzsnz/jupyter-quant  
   Dockerized research environment for quantitative finance and experimentation.
 
-- **pyderivatives**
-  https://github.com/Julian-Beatty/Pyderivatives/tree/main
+- **pyderivatives**  
+  https://github.com/Julian-Beatty/Pyderivatives/tree/main  
   A Modern Toolkit for Option Pricing, Densities, and Econometric Analysis   
 
 ---
