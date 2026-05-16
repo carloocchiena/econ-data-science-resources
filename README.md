@@ -65,6 +65,9 @@ Resources are selected according to at least one of the following criteria:
 - **Finanza Matematica - Pascucci, Runggaldier**  
   Graduate-level compendium of the mathematics foundation of financial markets
 
+- **Options, Futures, and Other Derivatives - John Hull**  
+  Financial derivatives logic and underlying mathematical foundations.
+
 ---
 
 ## Open Source Tools
