@@ -109,16 +109,16 @@ Resources are selected according to at least one of the following criteria:
   Analysis of the macroeconomic implications of artificial intelligence and automation.
 
 - **Macroeconomic policies for AI - Luca Fornaro, Martin Wolf**   
-  https://econ-papers.upf.edu/papers/1943.pdf
+  https://econ-papers.upf.edu/papers/1943.pdf  
   A macroeconomic framework to study monetary and fiscal policies for AI
 
-- **When Financial Economics influences Physics: The Role of Econophysics**
-  https://iris.unipa.it/retrieve/handle/10447/409363/873591/IRFA_2019_published.pdf
+- **When Financial Economics influences Physics: The Role of Econophysics**  
+  https://iris.unipa.it/retrieve/handle/10447/409363/873591/IRFA_2019_published.pdf  
   This paper aims at analyzing the unexpected influence of Financial economics on
 Physics.
 
 - **Valuation Ratios and the Long Run Stock Market Outlook**    
-  https://www.nber.org/system/files/working_papers/w8221/w8221.pdf
+  https://www.nber.org/system/files/working_papers/w8221/w8221.pdf  
   Use of price-earning rations and dividend-price ratios as forecasting variables for stock market.  
   
 ---
@@ -126,22 +126,22 @@ Physics.
 ## Foundation Papers
 
 - **A Contribution to the Theory of Economic Growth - Robert Solow (1956)**  
-  Foundational paper of neoclassical growth theory.
+  Foundational paper of neoclassical growth theory.  
 
 - **On the Mechanics of Economic Development - Robert Lucas (1988)**  
-  Human capital and endogenous growth dynamics.
+  Human capital and endogenous growth dynamics.  
 
 - **Endogenous Technological Change - Paul Romer (1990)**  
-  Seminal contribution to endogenous growth and innovation theory.
+  Seminal contribution to endogenous growth and innovation theory.  
 
 - **The Pricing of Options and Corporate Liabilities - Black & Scholes (1973)**  
-  Foundational framework for derivatives pricing.
+  Foundational framework for derivatives pricing.  
 
 - **Portfolio Selection - Harry Markowitz (1952)**  
-  Introduction of modern portfolio theory and mean-variance optimization.
+  Introduction of modern portfolio theory and mean-variance optimization.  
 
 - **Efficient Capital Markets: A Review of Theory and Empirical Work - Eugene Fama**  
-The seminal work on EMH by Nobel's Prize Eugene Fama.  
+The seminal work on EMH by Nobel's Prize Eugene Fama.   
 
 ---
 
