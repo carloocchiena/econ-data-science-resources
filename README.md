@@ -181,9 +181,13 @@ The seminal work on EMH by Nobel's Prize Eugene Fama.
 
 ---
 ## Data 
-- **Shillerdata**
-  https://shillerdata.com/
+- **Shillerdata**  
+  https://shillerdata.com/  
   US Stock Price, Earnings and Dividends as well as Interest Rates and  Cyclically Adjusted Price Earnings Ratio (CAPE) since 1871  
+
+- **Kaggle**
+  [https://www.kaggle.com/](https://www.kaggle.com/datasets)  
+  World-leading dataset for Computer Science, Engineering and Data Science.
 
 ---
 
