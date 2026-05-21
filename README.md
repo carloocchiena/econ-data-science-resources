@@ -257,10 +257,9 @@ The seminal work on EMH by Nobel's Prize Eugene Fama.
 
 ## Topics of Interest
 
-- Economic growth theory
-- Dynamic optimization
-- Differential equations
-- Econometrics and causal inference
+- Economic theory
+- Econometrics
+- Financial mathematics
 - Energy economics
 - Quantitative finance
 - Machine learning for economics
