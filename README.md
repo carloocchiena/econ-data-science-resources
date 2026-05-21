@@ -140,7 +140,7 @@ Physics.
 - **Portfolio Selection - Harry Markowitz (1952)**  
   Introduction of modern portfolio theory and mean-variance optimization.  
 
-- **Efficient Capital Markets: A Review of Theory and Empirical Work - Eugene Fama**  
+- **Efficient Capital Markets: A Review of Theory and Empirical Work - Eugene Fama (1970)**  
 The seminal work on EMH by Nobel's Prize Eugene Fama.   
 
 ---
@@ -185,7 +185,7 @@ The seminal work on EMH by Nobel's Prize Eugene Fama.
   https://shillerdata.com/  
   US Stock Price, Earnings and Dividends as well as Interest Rates and  Cyclically Adjusted Price Earnings Ratio (CAPE) since 1871  
 
-- **Kaggle**
+- **Kaggle**  
   [https://www.kaggle.com/](https://www.kaggle.com/datasets)  
   World-leading dataset for Computer Science, Engineering and Data Science.
 
