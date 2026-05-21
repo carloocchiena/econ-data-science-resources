@@ -115,8 +115,12 @@ Resources are selected according to at least one of the following criteria:
 - **When Financial Economics influences Physics: The Role of Econophysics**
   https://iris.unipa.it/retrieve/handle/10447/409363/873591/IRFA_2019_published.pdf
   This paper aims at analyzing the unexpected influence of Financial economics on
-Physics.  
+Physics.
 
+- **Valuation Ratios and the Long Run Stock Market Outlook**    
+  https://www.nber.org/system/files/working_papers/w8221/w8221.pdf
+  Use of price-earning rations and dividend-price ratios as forecasting variables for stock market.  
+  
 ---
 
 ## Foundation Papers
@@ -174,6 +178,12 @@ The seminal work on EMH by Nobel's Prize Eugene Fama.
 - **Econ Guy**  
   https://www.youtube.com/@structuraleconguy/  
   Economics research and estimating structural econometric models
+
+---
+## Data 
+- **Shillerdata**
+  https://shillerdata.com/
+  US Stock Price, Earnings and Dividends as well as Interest Rates and  Cyclically Adjusted Price Earnings Ratio (CAPE) since 1871  
 
 ---
 
