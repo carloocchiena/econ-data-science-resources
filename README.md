@@ -189,6 +189,10 @@ The seminal work on EMH by Nobel's Prize Eugene Fama.
   [https://www.kaggle.com/](https://www.kaggle.com/datasets)  
   World-leading dataset for Computer Science, Engineering and Data Science.
 
+- **Microeconomics real world curated dataset**  
+  [https://damianclarke.net/books/microeconometrics/data/]  
+  Index of /books/microeconometrics/data  
+
 ---
 
 ## Podcasts
