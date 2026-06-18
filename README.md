@@ -3,7 +3,7 @@ A curated collection of books, papers, courses, notes and tools at the intersect
 
 ## Purpose
 
-The goal is not completeness, but curation: selecting useful material for study, research and applied problem solving.
+Gathering useful material for study, research and applied problem solving.
 
 Resources are selected according to at least one of the following criteria:
 - conceptual clarity
