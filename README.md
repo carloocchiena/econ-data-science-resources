@@ -1,17 +1,6 @@
 # Econ and Data Science Resources
 A curated collection of books, papers, courses, notes and tools at the intersection of economics, data science and quantitative methods. 
 
-## Purpose
-
-Gathering useful material for study, research and applied problem solving.
-
-Resources are selected according to at least one of the following criteria:
-- conceptual clarity
-- mathematical rigor
-- practical usefulness
-- historical relevance
-- pedagogical quality
-
 ## Books
 
 ### Educational and popular
