@@ -222,6 +222,11 @@ The seminal work on EMH by Nobel's Prize Eugene Fama.
   https://cepr.org/europe-2050-geometries-peace-power-and-prosperity  
   Research initiative coordinated by Olivier Blanchard on the future of Europe and macroeconomic policy.
 
+- **Matteo Iacoviello's Homepage**
+  https://www.matteoiacoviello.com/
+  Senior Associate Director, Division of International Finance, Federal Reserve Board
+  Creator of famous GPR Geopolitical Risk Index  
+
 ---
 
 ## Newsletters
