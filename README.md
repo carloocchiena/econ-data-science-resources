@@ -227,7 +227,7 @@ The seminal work on EMH by Nobel's Prize Eugene Fama.
   Senior Associate Director, Division of International Finance, Federal Reserve Board  
   Creator of famous GPR Geopolitical Risk Index
 
-- **Core Economics**
+- **Core Economics**     
   https://www.core-econ.org/     
   Free online textbooks and resources for a new way of teaching and learning economics, using the best research to address the world’s most pressing problems.
 
