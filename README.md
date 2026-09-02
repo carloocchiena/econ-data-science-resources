@@ -57,10 +57,10 @@ A curated collection of books, papers, courses, notes and tools at the intersect
 - **Options, Futures, and Other Derivatives - John Hull**  
   Financial derivatives logic and underlying mathematical foundations.
 
-- **Mathematics of Data Science - A. Bandeira et al.**
-Technical Data Science book from ETH research pool.
+- **Mathematics of Data Science - A. Bandeira et al.**  
+Technical Data Science book from ETH research pool.  
 
-- **Introduction to the Physics of the Economy and Finance -JP Da Cruz**
+- **Introduction to the Physics of the Economy and Finance -JP Da Cruz**  
 Provides the bases for physics student to understand financial markets and why they exist.  
 Offers a comprehensive approach to the mathematical tools used in finance; their strengths and weaknesses.  
 Looks at markets and economy as physics systems by their own right.  
