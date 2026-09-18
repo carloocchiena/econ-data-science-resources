@@ -63,7 +63,11 @@ Technical Data Science book from ETH research pool.
 - **Introduction to the Physics of the Economy and Finance -JP Da Cruz**  
 Provides the bases for physics student to understand financial markets and why they exist.  
 Offers a comprehensive approach to the mathematical tools used in finance; their strengths and weaknesses.  
-Looks at markets and economy as physics systems by their own right.  
+Looks at markets and economy as physics systems by their own right.
+
+- **From Econometrics to Deep Learning with R and Python - Dr. Abdelkader Metales**   
+https://book.metalesaek.com/ (free digital reading copy)  
+A technical book focused on applied econometrics.  
 
 ---
 
