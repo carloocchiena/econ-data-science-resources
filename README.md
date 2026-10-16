@@ -44,6 +44,9 @@ A curated collection of books, papers, courses, notes and tools at the intersect
 - **Price Setting - Truman Bewley**  
   Empirical investigation of price rigidity and pricing behaviour across firms and industries.
 
+- **Hedge Fund Market Wizards - Jack D. Schwager**  
+Fascinating insights into the hedge fund traders who consistently outperform the markets, in their own words.
+
 ### Technicals
 - **Capitalism, Socialism and Democracy - Joseph Schumpeter**  
   Classic work on innovation, entrepreneurship and creative destruction.
