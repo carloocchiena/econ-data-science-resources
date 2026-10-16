@@ -192,7 +192,11 @@ The seminal work on EMH by Nobel's Prize Eugene Fama.
 
 - **Microeconomics real world curated dataset**  
   [Microenonometrics](https://damianclarke.net/books/microeconometrics/data/)  
-  Index of /books/microeconometrics/data  
+  Index of /books/microeconometrics/data
+
+- ** Global Macro Database **  
+  [https://www.globalmacrodata.com/]  
+  The world's most comprehensive macroeconomic dataset.  
 
 ---
 
