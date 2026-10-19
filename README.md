@@ -183,6 +183,10 @@ The seminal work on EMH by Nobel's Prize Eugene Fama.
   https://www.youtube.com/@structuraleconguy/  
   Economics research and estimating structural econometric models
 
+- **Macroeconomics by Klaus Prettner**  
+[Macroeconomics course](https://www.youtube.com/playlist?list=PLHCd4G3qW92ntgpeidBYIRxSG9YrewDaU)    
+University-level economics lectures and tutorials in English covering macroeconomics, microeconomics, economic growth.  
+
 ---
 ## Data 
 - **Shillerdata**  
