@@ -203,7 +203,12 @@ University-level economics lectures and tutorials in English covering macroecono
 
 - **Global Macro Database**  
   [https://www.globalmacrodata.com/]  
-  The world's most comprehensive macroeconomic dataset.  
+  The world's most comprehensive macroeconomic dataset.
+
+- **SEC's Mutual Fund Prospectus Risk/Return Summary Data**  
+  [GitHub](https://github.com/sec-gov/python-for-dera-mutual-fund-risk-return-datasets)  
+  This repository contains Python code examples to demonstrate how to read data from SEC's Mutual Fund Prospectus Risk/Return Summary Data Sets using the Pandas package  
+  
 
 ---
 
