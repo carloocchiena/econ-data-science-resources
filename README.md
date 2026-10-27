@@ -259,6 +259,9 @@ University-level economics lectures and tutorials in English covering macroecono
   https://www.core-econ.org/     
   Free online textbooks and resources for a new way of teaching and learning economics, using the best research to address the world’s most pressing problems.
 
+- **Econvitals**  
+  https://econvitals.org/   
+  Economics data and related feeds by Harvard's Jason Furman.  
   
 
 ---
