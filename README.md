@@ -266,7 +266,12 @@ The seminal work on EMH by Nobel's Prize Eugene Fama.
 
 - **Econvitals**  
   https://econvitals.org/   
-  Economics data and related feeds by Harvard's Jason Furman.  
+  Economics data and related feeds by Harvard's Jason Furman.
+
+ - **RoboMacro**  
+   https://robomacro.com/
+   Daily macro research, quant strategy tools, equity screeners, and intelligence feeds.
+   
   
 
 ---
